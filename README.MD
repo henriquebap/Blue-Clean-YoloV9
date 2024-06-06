@@ -18,6 +18,7 @@
 ## Descrição
 
 Este projeto utiliza a versão mais recente do modelo YOLO, o YOLOv9, para a detecção de lixo em imagens de praias e corpos d'água. O objetivo é criar um modelo eficiente que possa identificar e classificar diferentes tipos de resíduos, contribuindo para iniciativas de limpeza e preservação ambiental.
+
 ---
 
 ## Objetivo
