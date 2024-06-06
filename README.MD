@@ -64,7 +64,7 @@ pbottle 512 342 0.821 0.803 0.859 0.549
 Results saved to runs/train/exp
 ```
 
-![yoloV9-Results.png]()
+![yoloV9-Results](https://github.com/henriquebap/Blue-Clean-YoloV9/blob/main/images/yoloV9-Results.png)
 Metrics Curve
 
 ### Validação do Modelo
@@ -84,12 +84,12 @@ pbottle 512 342 0.821 0.804 0.859 0.55
 Speed: 1.2ms pre-process, 30.9ms inference, 4.2ms NMS per image at shape (32, 3, 640, 640) 
 Results saved to runs/val/exp
 ```
-![matrixConfusion-YoloV9.png]()
+![matrixConfusion-YoloV9](https://github.com/henriquebap/Blue-Clean-YoloV9/blob/main/images/matrixConfusion-YoloV9.png)
 Confusion Matrix
 
 ### Exemplos de Resultados
-![glove.png]()
-![test-glove-mask.png]()
+![glove](https://github.com/henriquebap/Blue-Clean-YoloV9/blob/main/images/glove.jpg)
+![test-glove-mask](https://github.com/henriquebap/Blue-Clean-YoloV9/blob/main/images/test-glove-mask.jpg)
 
 
 ## Referências
@@ -102,7 +102,9 @@ Confusion Matrix
 [![GitHub - Henriquebap](https://badges.aleen42.com/src/github.svg)](https://github.com/henriquebap/Blue-Clean-YoloV9/tree/main) - Project Repo
 
 ---
+
 Este projeto é parte de um esforço contínuo da Blue Clean para utilizar tecnologia de ponta na preservação ambiental, especificamente na limpeza e monitoramento de áreas marinhas. Agradecemos a todos os colaboradores e convidamos a comunidade a contribuir para melhorar ainda mais esta solução.
+
 ---
 ### Global Solution Group
 - [Henrique Baptista](https://www.linkedin.com/in/henrique-baptista777/) - RM97796 (Modelo Criado e Desenvolvido)
